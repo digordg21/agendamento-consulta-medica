@@ -1,0 +1,6 @@
+@agendamento_consulta_medica_HostAddress = http://localhost:5284
+
+GET {{agendamento_consulta_medica_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
